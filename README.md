@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reavo242
+- 👋 Hi, I’m @reavo242 (Dony Reaves)
 - 👀 I’m interested in computer games, development, U.S history, liberty and freedom
 - 🌱 I’m currently learning CSS, JavaScript, Python, PHP
 - 💞️ I’m looking to collaborate on ...
